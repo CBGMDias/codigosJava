@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class matriz{
-    static int matriz[][] = new int[3][3];
+    static int matriz[][] = new int[4][4];
     static Scanner teclado = new Scanner(System.in);
 
     /* observe que no 'for', o .lenght muda para a coluna, já que a ordem da matriz é primeiro a linha e depois
